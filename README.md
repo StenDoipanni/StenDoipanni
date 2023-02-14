@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 -----------------------------------
 
-I'm a researcher at the faculty of Philosophy. </br>
-I have a PhD in Digital Humanities and Digital Knowledge. </br>
+<!-- I'm a researcher at the faculty of Philosophy at University of Bologna. </br> -->
+I'm a PhD student in Digital Humanities and Digital Knowledge at University of Bologna. </br>
 My main research interests are **cognitive semantics**, **knowledge representation** and **frame semantics**. </br>
 The main focus of my research is on the transposition of theories of moral and cultural values into formal semantics, with an approach based on frame semantics and embodied cognition.
 
