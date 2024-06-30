@@ -51,8 +51,6 @@ I work on these issues because, as an ultimate goal, I envision a more ethical, 
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/StenDoipanni"><img src="https://github-readme-stats.vercel.app/api?username=StenDoipanni&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="StenDoipanni's GitHub stats" /></a>
-
 <a href="https://github.com/StenDoipanni"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=StenDoipanni&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/StenDoipanni"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=StenDoipanni" alt="Skills Graph" width="80%"/></a>
