@@ -18,10 +18,13 @@ Here are some ideas to get you started:
 -----------------------------------
 
 <!-- I'm a researcher at the faculty of Philosophy at University of Bologna. </br> -->
-I'm a PhD student in Digital Humanities and Digital Knowledge at University of Bologna. </br>
-My main research interests are **cognitive semantics**, **knowledge representation** and **frame semantics**. </br>
-The main focus of my research is on the transposition of theories of moral and cultural values into formal semantics, with an approach based on frame semantics and embodied cognition. </br>
-I work on these issues because, as an ultimate goal, I envision a more ethical, open, accessible, and equal AI.  </br>
+I'm a post-doctoral researcher at the Institute of Cognitive Sciences and Technologies - National Research Council (ISTC-CNR). </br>
+
+I did my PhD in Digital Humanities and Digital Knowledge at University of Bologna, specifically focusing on Knowledge Representation and Extraction. </br>
+My main research interests are **knowledge graphs**, **ontologies**; **knowledge representation**, **cognitive semantics**, and **frame semantics**. </br>
+The main focus of my research is the realization of Grounded World Models, namely realising models of the world grounded in real world data as well as human social behavior. </br>
+I've been working on the transposition of theories of moral and cultural values into formal semantics, with an approach based on frame semantics and embodied cognition. </br>
+The reason to work on these topics is, as ultimate goal, a more ethical, open, explainable, accessible, and equal AI.  </br>
 
 -----------------------------------
 
