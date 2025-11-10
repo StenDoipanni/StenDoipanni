@@ -18,19 +18,22 @@ Here are some ideas to get you started:
 -----------------------------------
 
 <!-- I'm a researcher at the faculty of Philosophy at University of Bologna. </br> -->
-I'm a post-doctoral researcher at the Institute of Cognitive Sciences and Technologies - National Research Council (ISTC-CNR). </br>
+**Current position:** </br>
+I'm a post-doctoral researcher at the Artificial Intelligence faculty of Vrije Universiteit (VU) Amsterdam focused on neuro-symbolic architectures for commonsense knowledge elicitation, working on the toxicity of internet memes. </br>
 
-I did my PhD in Digital Humanities and Digital Knowledge at University of Bologna, specifically focusing on Knowledge Representation and Extraction. </br>
-My main research interests are **knowledge graphs**, **ontologies**; **knowledge representation**, **cognitive semantics**, and **frame semantics**. </br>
-The main focus of my research is the realization of Grounded World Models, namely realising models of the world grounded in real world data as well as human social behavior. </br>
-I've been working on the transposition of theories of moral and cultural values into formal semantics, with an approach based on frame semantics and embodied cognition. </br>
+**Previously:** </br>
+Post-doctoral researcher at the Institute of Cognitive Sciences and Technologies - National Research Council (ISTC-CNR) focused on Bio-Socio-Cognitive AI for Grounded World models, namely, realising computational models of the world grounded in (i) real world data as well as (ii) human social behavior, developed in the context of the FAIR (Future Artificial Intelligence Research) project. </br>
+
+I did my PhD in Digital Humanities and Digital Knowledge at University of Bologna, specifically focusing on Applied Ontology and Knowledge Representation for moral values and embodied cognition. </br>
+My main research interests are **applied ontology**, **neuro-symbolic architectures**, **knowledge graphs**, **knowledge representation**, and **cognitive computing**. </br>
+In my PhD I've been working on modeling theories of moral and cultural values into formal semantics, with an approach based on frame semantics and embodied cognition. </br>
 The reason to work on these topics is, as ultimate goal, a more ethical, open, explainable, accessible, and equal AI.  </br>
 
 -----------------------------------
 
-* 📍  I'm currently based in Bologna, Italy
+* 📍  I'm currently based in Amsterdam, Netherlads
 * 📬  You can contact me at [stefano.de.giorgis@gmail.com](mailto:stefano.de.giorgis@gmail.com)
-* 🛠️  I'm currently working (on something cool!) at [University of Bologna](https://www.unibo.it/sitoweb/stefano.degiorgis2/en)
+* 🛠️  I'm currently working (on something cool!) at [Vrije Universiteit Amsterdam](https://research.vu.nl/en/persons/stefano-de-giorgis/)
 
 ### Skills
 
